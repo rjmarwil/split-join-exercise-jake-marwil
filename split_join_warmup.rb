@@ -9,31 +9,31 @@ of, its, World, Cup, opener.
 world_cup_news
 
 # enter your solutions inside the methods
-def goal(message)
+def goal(goal_message)
 
 end
 
-def generate_an_array_of_teams(teams)
+def generate_an_array_of_teams(team_list)
 
 end
 
-def number_of_teams(teams)
+def number_of_teams(team_list)
 
 end
 
-def return_australia(teams)
+def return_australia(team_list)
 
 end
 
-def starts_with_C(teams)
+def starts_with_C(team_list)
 
 end
 
-def block_string_to_single_line(block_string)
+def block_string_to_single_line(long_string)
 
 end
 
-def capitalize_every_third_word(block_string)
+def capitalize_every_third_word(long_string)
 
 end
 
